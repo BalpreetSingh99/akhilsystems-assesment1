@@ -1,0 +1,37 @@
+*{
+    text-decoration: none;
+}
+p{
+    padding: 15px;
+    font-size: large;
+    font-family: "Lucida Console";
+}
+.item{
+    display:"flex";
+    padding:"5px";
+    align-items: center;
+    justify-content:"space-between";
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#nav{
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    border-bottom: 2px solid black ;
+    padding: 5px;
+}
+
+img{
+    max-height: 150px;
+}
+
+form{
+    background-color: rgb(209, 207, 207);
+    width: 50%;
+    margin-left: 25%;
+}
